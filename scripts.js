@@ -1,6 +1,6 @@
 function fun1()
 {
-    window.open("https://www.upilinks.in/payment-link/upi644284796")
+    window.open("https://www.upilinks.in/payment-link/upi591689182")
 }
 fun2()
 {
